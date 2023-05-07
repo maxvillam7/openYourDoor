@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/openYourDoor.iml" filepath="$PROJECT_DIR$/openYourDoor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open_your_door.iml" filepath="$PROJECT_DIR$/open_your_door.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/open_your_door_android.iml" filepath="$PROJECT_DIR$/android/open_your_door_android.iml" />
     </modules>
   </component>
 </project>
